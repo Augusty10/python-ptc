@@ -1,3 +1,10 @@
+
+
+
+print("Name - Swati Yadav ")
+print("Class - MCA 2 nd ")
+print("Role No. - 56")
+
 name=input("Enter your name : ")
 sub1 = float(input("Enter marks for Subject 1: "))
 sub2 = float(input("Enter marks for Subject 2: "))

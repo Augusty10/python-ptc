@@ -1,8 +1,11 @@
-# Global variable
+print("Name - Swati Yadav ")
+print("Class - MCA 2 nd ")
+print("Role No. - 56")
+
 x = 10
 
 def show():
-    # Local variable
+  
     y = 5
     print("Inside function:")
     print("Global x =", x)

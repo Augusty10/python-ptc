@@ -1,3 +1,8 @@
+print("Name - Swati Yadav ")
+print("Class - MCA 2 nd ")
+print("Role No. - 56")
+
+
 name = input("Enter a string: ")
 
 # Forward

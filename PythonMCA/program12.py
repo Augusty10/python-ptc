@@ -1,6 +1,11 @@
+
+print("Name - Swati Yadav ")
+print("Class - MCA 2 nd ")
+print("Role No. - 56")
+
 num = int(input(" Enter the number : "))
 
-sum_digits=0
+sum_digit=0
 product=1
 
 while num>0:
@@ -9,5 +14,5 @@ while num>0:
     product *=digit
     num = num//10
     
-print("Sum:", sum_digits)
+print("Sum:", sum_digit)
 print("Product:", product)

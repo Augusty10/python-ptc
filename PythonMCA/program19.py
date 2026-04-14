@@ -1,3 +1,8 @@
+
+print("Name - Swati Yadav ")
+print("Class - MCA 2 nd ")
+print("Role No. - 56")
+
 main_str = input("Enter main string: ")
 sub_str = input("Enter substring: ")
 

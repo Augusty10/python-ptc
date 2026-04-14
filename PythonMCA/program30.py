@@ -1,3 +1,7 @@
+
+print("Name - Swati Yadav ")
+print("Class - MCA 2 nd ")
+print("Role No. - 56")
 roll_numbers = [101, 102, 103, 104, 105]
 
 num = int(input("Enter roll number to search: "))

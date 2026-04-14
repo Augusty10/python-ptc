@@ -1,3 +1,9 @@
+
+
+print("Name - Swati Yadav ")
+print("Class - MCA 2 nd ")
+print("Role No. - 56")
+
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 

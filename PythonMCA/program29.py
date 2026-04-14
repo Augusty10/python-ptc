@@ -1,3 +1,6 @@
+print("Name - Swati Yadav ")
+print("Class - MCA 2 nd ")
+print("Role No. - 56")
 students = {
     "Ram": 85,
     "Shyam": 92,

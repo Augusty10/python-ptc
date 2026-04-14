@@ -1,3 +1,7 @@
+
+print("Name - Swati Yadav ")
+print("Class - MCA 2 nd ")
+print("Role No. - 56")
 num = input("Enter a number: ")
 
 # Convert string to int
